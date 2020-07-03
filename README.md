@@ -11,9 +11,7 @@ how to connect that with the git-bash terminal. This is the method I used to for
 
 *In order to complete this project, you should have completed the Learn SQL Manipulation and Learn SQL Queries lessons.*
 
-________________________________
-
-This task has been completed.
+- This task has been completed.
 
 ### Task 2 
 
@@ -32,9 +30,7 @@ This task has been completed.
 
 *When you finish this project, you should be able to answer each the questions that follow using a single SQL query.*
 
-_________________________________
-
-This task has been completed. 
+- This task has been completed. 
 
 ### Task 3 
 
