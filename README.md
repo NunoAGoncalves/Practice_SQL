@@ -9,7 +9,9 @@ how to connect that with the git-bash terminal. This is the method I used to for
 
 ### Task 1
 
-"In order to complete this project, you should have completed the Learn SQL Manipulation and Learn SQL Queries lessons."
+*In order to complete this project, you should have completed the Learn SQL Manipulation and Learn SQL Queries lessons.*
+
+________________________________
 
 This task has been completed.
 
@@ -29,6 +31,8 @@ This task has been completed.
 *Refer to this schema as you write queries to the database.*
 
 *When you finish this project, you should be able to answer each the questions that follow using a single SQL query.*
+
+_________________________________
 
 This task has been completed. 
 
