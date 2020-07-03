@@ -16,9 +16,9 @@ This task has been completed.
 ### Task 2 
 
 
-*In this project, you’ll answer questions using a database of world population by country.
+*In this project, you’ll answer questions using a database of world population by country.*
 
-*The schema of the database is:
+*The schema of the database is:*
 
 | Column   |	Type	|    Notes      |
 |----------|:----------:|--------------:|
@@ -26,16 +26,16 @@ This task has been completed.
 |population|   NUMBER   | (in millions) |
 |year	   |   NUMBER   |	            |
 
-*Refer to this schema as you write queries to the database.
+*Refer to this schema as you write queries to the database.*
 
-*When you finish this project, you should be able to answer each the questions that follow using a single SQL query.
+*When you finish this project, you should be able to answer each the questions that follow using a single SQL query.*
 
 This task has been completed. 
 
 ### Task 3 
 
-*The first query has already been written for you to answer the following question:
+*The first query has already been written for you to answer the following question:*
 
-*What years are covered by the dataset? (you can manually count the number of years returned).
+*What years are covered by the dataset? (you can manually count the number of years returned).*
 
-*Continue adding your queries below the first one as you proceed.
+*Continue adding your queries below the first one as you proceed.*
